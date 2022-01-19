@@ -11,7 +11,7 @@ exoprod : on apprend a créer les outils, modèles, poids, et d'exporter ça
 ## Keras
 catdog : équivalent de exoprod mais sous keras
 
-## Projet : 
+## Projet (fastai) : 
 Créer une IA qui sera capable de classer une photo de champignon dans une des 3 catégories : 
 *   Mortel
 *   Toxique
