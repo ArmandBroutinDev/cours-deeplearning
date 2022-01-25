@@ -12,11 +12,13 @@ exoprod : on apprend a créer les outils, modèles, poids, et d'exporter ça
 catdog : équivalent de exoprod mais sous keras
 
 ## Projet (fastai) : 
-Créer une IA qui sera capable de classer une photo de champignon dans une des 3 catégories : 
+Créer une IA qui sera capable de classer une photo de champignon dans une des 4 catégories : 
 *  champignon toxique
 *  Sporocarpe toxique
 *  champignon commestible
 *  Sporocarpe commestible
+
+[correction] maintenant il n'y a plus que champignon toxique et commestible
 
 L'objectif étant d'aider au ramassage de champignon on va faire en sorte que l'ia ne se trompe quasi jamais en plaçant dans commestible au risque de mettre des champignons commestibles dans toxique ou mortel.
 
