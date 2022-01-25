@@ -23,5 +23,8 @@ Créer une IA qui sera capable de classer une photo de champignon dans une des 4
 L'objectif étant d'aider au ramassage de champignon on va faire en sorte que l'ia ne se trompe quasi jamais en plaçant dans commestible au risque de mettre des champignons commestibles dans toxique ou mortel.
 
 Je vais faire un dataset de champignons communs trouvables en france afin de limiter la difficulté et le taux d'erreur.
+[correction] j'ai utilisé ce dataset : https://www.kaggle.com/marcosvolpato/edible-and-poisonous-fungi
 
 Cette IA sera pré entrainée depuis un notebook appelé mushroompicker et sera exportée afin de pouvoir l'utiliser.
+
+toutes les instructions sont dans le notebook mushroompicker.ipynb
